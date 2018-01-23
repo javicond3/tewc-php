@@ -1,1 +1,1 @@
-Formulario básico
+Formulario mejorado
